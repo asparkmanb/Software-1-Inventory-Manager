@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"sparkman.inventoryproject","l":"controller"},{"m":"sparkman.inventoryproject","l":"model"},{"m":"sparkman.inventoryproject","l":"sparkman.inventoryproject"}];updateSearchResults();
